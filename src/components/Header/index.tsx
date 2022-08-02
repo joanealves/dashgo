@@ -35,7 +35,6 @@ export function Header() {
           mr="2"
         ></IconButton>
       )}
-
       <Logo />
       {isWideVersion && <SearchBox />}
       <Flex align="center" ml="auto">
